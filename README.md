@@ -2,6 +2,8 @@
 
 Welcome! I am a middle school student in China. This is my official Github channel, I will share my code to yours in here.
 
+> <script src="https://book.fly6022.fun/note/haoju.js" type="text/javascript"></script>
+
 <!--
 **fly6022/fly6022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
