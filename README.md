@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome! I am a middle school student in China. This is my official Github channel, I will share my code to yours in here.
+Welcome! I am a middle school student in China. This is my official Github channel, I will share my code to yours in here. If you like this channel, please follow this channel.
 
 <!--
 **fly6022/fly6022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
