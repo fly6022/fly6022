@@ -3,7 +3,7 @@
 Welcome! I am a middle school student in China. This is my official Github channel, I will share my code to yours in here. If you like this channel, please follow this channel.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fly6022" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fly6022" />
+<img align="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fly6022" />
 
 <!--
 **fly6022/fly6022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
