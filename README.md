@@ -10,7 +10,7 @@ Welcome! I am a middle school student in China. This is my official Github chann
 ## 💻 My Tools
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/oneplus-7%20UD-f45a00?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/oneplus-7-f45a00?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 
 ## 📫 Link
 
