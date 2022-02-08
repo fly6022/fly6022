@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome! I am a senior high school student in China. This is my official Github channel.
+Welcome! I am a senior high school student from China. This is my official Github channel.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/fly6022?style=social" /> <a href="https://twitter.com/fly_6022"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/fly_6022?style=social"></a>
 
