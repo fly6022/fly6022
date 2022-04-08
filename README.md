@@ -6,9 +6,6 @@ Welcome! I am a senior high school student from China. This is my official Githu
 
 ![:fly6022](https://api.moedog.org/count/@fly6022?theme=galbooru)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fly6022)
-
-
 ## 💻 My Tools
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
