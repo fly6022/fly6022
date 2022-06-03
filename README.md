@@ -6,10 +6,10 @@ Welcome! I am a senior high school student from China. This is my official Githu
 
 ![:fly6022](https://api.moedog.org/count/@fly6022?theme=galbooru)
 
-## 💻 My Tools
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/oneplus-7-f45a00?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
+## 🌱 My OS
+
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=microsoft&logoColor=white) ![Android 11](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ## ⌨ My language
 
@@ -21,14 +21,8 @@ Welcome! I am a senior high school student from China. This is my official Githu
 ![Python](https://img.shields.io/badge/python-3B71A5.svg?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0280CE.svg?logo=C&logoColor=white)
 
-## 🌱 My OS
-
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=microsoft&logoColor=white) ![Android 11](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-
 ## 📫 Link
 
-- Blog [@fly6022's Blog](https://fly6022.fun)
+- Website [@fly6022](https://fly6022.fun/)
+- Blog [@fly6022's Blog](https://blog.fly6022.fun)
 - Email [Click Here](mailto:i@fly6022.fun)
-
-<!--
-**fly6022/fly6022**
