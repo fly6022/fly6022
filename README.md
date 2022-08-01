@@ -1,11 +1,8 @@
 # Hi there 👋
 
-Welcome! I am a senior high school student from China. This is my official Github channel.
+>  满载一船星辉，在星辉斑斓里放歌。
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/fly6022?style=social" />
-
-![:fly6022](https://api.moedog.org/count/@fly6022?theme=galbooru)
-
 
 ## 🌱 My OS
 
@@ -25,4 +22,5 @@ Welcome! I am a senior high school student from China. This is my official Githu
 
 - Website [@fly6022](https://fly6022.fun/)
 - Blog [@fly6022's Blog](https://blog.fly6022.fun)
+- 洛谷 [473298](https://www.luogu.com.cn/user/473298)
 - Email [Click Here](mailto:i@fly6022.fun)
