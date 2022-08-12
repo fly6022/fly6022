@@ -10,9 +10,9 @@
 
 ## ⌨ My language
 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-59,113,165.svg?logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3B71A5.svg?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-0280CE.svg?logo=C&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-3B71A5.svg?logo=php&logoColor=white)
