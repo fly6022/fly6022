@@ -6,7 +6,7 @@
 
 ## 🌱 My OS
 
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=microsoft&logoColor=white) ![Android 12](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android 12](https://img.shields.io/badge/Android%2013-3DDC84?logo=android&logoColor=white)
 
 ## ⌨ My language
 
