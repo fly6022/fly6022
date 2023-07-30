@@ -4,6 +4,8 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/fly6022?style=social" />
 
+[![fly6022's GitHub stats](https://github-readme-stats.vercel.app/api?username=fly6022)](https://github.com/fly6022/github-readme-stats)
+
 ## 🌱 My OS
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android 13](https://img.shields.io/badge/Android%2013-3DDC84?logo=android&logoColor=white)
