@@ -2,8 +2,6 @@
 
 >  满载一船星辉，在星辉斑斓里放歌。
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/fly6022?style=social" />
-
 [![fly6022's GitHub stats](https://github-readme-stats.vercel.app/api?username=fly6022)](https://github.com/fly6022/github-readme-stats)
 
 ## 🌱 My OS
