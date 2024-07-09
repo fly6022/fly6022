@@ -10,7 +10,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3B71A5.svg?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0280CE.svg?logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0280CE.svg?logo=C&logoColor=white)
 
 ## 📫 Link
 
