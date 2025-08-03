@@ -14,7 +14,7 @@
 
 ## 📫 Link
 
-- Website [@fly6022](https://fly6022.fun/)
-- Blog [@fly6022's Blog](https://blog.fly6022.fun)
+- Website [@fly6022](https://kuri.ink/)
+- Blog [@fly6022's Blog](https://blog.kuri.ink)
 - 哔哩哔哩 [191078710](https://space.bilibili.com/191078710)
-- Email [Click Here](mailto:i@fly6022.fun)
+- Email [Click Here](mailto:cl@kuri.ink)
