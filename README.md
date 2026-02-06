@@ -4,7 +4,8 @@
 
 ## 🌱 My OS
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) ![Android 16](https://img.shields.io/badge/Android%2014-3DDC84?logo=android&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) 
+![Android 16](https://img.shields.io/badge/Android%2014-3DDC84?logo=android&logoColor=white)
 
 ## ⌨ My language
 
