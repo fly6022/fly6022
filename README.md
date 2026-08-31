@@ -2,10 +2,12 @@
 
 >  满载一船星辉，在星辉斑斓里放歌。
 
-## 🌱 My OS
+## 🔧 My Tools
 
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?logo=microsoft&logoColor=white) 
 ![Android 16](https://img.shields.io/badge/Android%2016-3DDC84?logo=android&logoColor=white)
+
+![ULTRA7-255HX](https://img.shields.io/badge/ULTRA7%20-255HX-0071C5?logo=INTEL&logoColor=white) 
+![RTX5060](https://img.shields.io/badge/Geforce%20-RTX5060-76B900?logo=NVIDIA&logoColor=white) 
 
 ## ⌨ My language
 
